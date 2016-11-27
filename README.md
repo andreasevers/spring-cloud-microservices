@@ -1,5 +1,9 @@
 # spring-cloud-microservices
 
+## Slides
+
+https://speakerdeck.com/andreasevers/microservices-spring-netflix-stack
+
 ## Running the services
 
 For each service, navigate to its directory and execute the `spring-boot:run` maven plugin (using the maven wrapper or your own installed maven):
