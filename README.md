@@ -9,11 +9,11 @@ cd <subfolder>
 ```
 
 Each of the services can then be reached through its public URI, on the following ports:
-zuul (gateway): 9999
-colour microservice: 8080
-car microservice: 8081
-eureka (service registry): 8761
-config server: 8888
-hystrix dashboard: 8010
-admin panel: 8020
-microservices dashboard: 8050
+> zuul (gateway): 9999
+> colour microservice: 8080
+> car microservice: 8081
+> eureka (service registry): 8761
+> config server: 8888
+> hystrix dashboard: 8010
+> admin panel: 8020
+> microservices dashboard: 8050
