@@ -16,11 +16,13 @@ Each of the services can then be reached through its public URI, on the followin
 
 Microservice | Port
 --- | ---
+config server | 8888
+eureka (service registry) | 8761
 zuul (gateway) | 9999
 colour microservice | 8080
 car microservice | 8081
-eureka (service registry) | 8761
-config server | 8888
 hystrix dashboard | 8010
 admin panel | 8020
 microservices dashboard | 8050
+
+Start the config server and eureka first.
